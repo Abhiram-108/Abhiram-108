@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">A passionate Fullstack developer,ML enthusiast, addicted to leetcode from India</h3>
-https://badges.pufler.dev/visits/{Abhiram-108}/{repo}
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
-https://badges.pufler.dev/commits/{periodicity}/{Abhiram-108}
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)
+
+![Visitor Count](https://profile-counter.glitch.me/{Abhiram-108}/count.svg)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
