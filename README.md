@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">A passionate Fullstack developer,ML enthusiast, addicted to leetcode from India</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{Abhiram-108}/count.svg)
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-108&show_icons=true&locale=en" alt="abhiram-108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram-108&" alt="abhiram-108" /></p>
+![Visitor Count](https://profile-counter.glitch.me/{Abhiram-108}/count.svg)
