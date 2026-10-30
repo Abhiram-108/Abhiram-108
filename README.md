@@ -1,32 +1,57 @@
+<h1 align="center">Hi, I'm Abhiram Pedada 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Abhiram</h1>
-<h3 align="center">A passionate Fullstack developer,ML enthusiast, addicted to leetcode from India</h3>
-
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **FULL STACK**
-
-- 💬 Ask me about **frontend,backend**
-
-- 📫 How to reach me **abhiram.pedada108@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhirampedada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhirampedada" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tonystark50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tonystark50" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhirampeuk4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhirampeuk4w" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Abhiram-108">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Software+Development+Engineer+%40+Juspay;Building+payments+infrastructure;Full-stack+%C2%B7+React+%C2%B7+Node.js+%C2%B7+TypeScript;550%2B+LeetCode+problems+solved" alt="Software Development Engineer @ Juspay" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/abhirampedada"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhiram.pedada108@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://myportfolio-indol-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/tonystark50/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/abhirampeuk4w"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-108&show_icons=true&locale=en&layout=compact" alt="abhiram-108" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-108&show_icons=true&locale=en" alt="abhiram-108" /></p>
+### 💼 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram-108&" alt="abhiram-108" /></p>
+- 💳 **Software Development Engineer at [Juspay](https://juspay.io)**, working on **Express Checkout**, Juspay's payments platform.
+- 🧑‍💻 **Full-stack engineer** who builds real-time web apps with React, Node.js, Express and Socket.IO, backed by MongoDB, MySQL and Prisma.
+- 🏆 **Winner of Hack SRM 6.0**, a national-level hackathon, with [SnackSense](https://github.com/Abhiram-108/SNACKSENSE.), an LLM-powered health app.
+- 🧠 **550+ LeetCode problems** solved (319 Medium · 44 Hard) with a **1700+ contest rating**, top ~12% globally. Daily solutions live in [leetcode](https://github.com/Abhiram-108/leetcode) (890+ commits).
+- 📫 Reach me at **abhiram.pedada108@gmail.com**
 
-![Visitor Count](https://profile-counter.glitch.me/{Abhiram-108}/count.svg)
+### 🛠️ Tech stack
+
+| Area | Tools |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,c" alt="C++, Java, Python, JavaScript, TypeScript, C" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" alt="React, Tailwind CSS, Vite, HTML, CSS" /> |
+| **Backend & data** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql,sqlite" alt="Node.js, Express, Prisma, MongoDB, MySQL, SQLite" /> |
+| **Tools & cloud** | <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" alt="Git, GitHub, Vercel, Netlify" /> |
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🏆 **[SnackSense](https://github.com/Abhiram-108/SNACKSENSE.)** | **Winner, Hack SRM 6.0 (₹60K prize).** Scan a snack's barcode and get an LLM-powered breakdown of its ingredients, nutrition and health score, with suggestions tailored to your diet. | React · Node · Express · MongoDB · OpenAI |
+| 💬 **[Conversa](https://github.com/Abhiram-108/CONVERSIA)** | Real-time chat with OTP login, typing indicators, read receipts, online/last-seen status, image messages and a context-aware AI chatbot. | MERN · Socket.IO |
+| 📋 **[MiniTrello](https://github.com/Abhiram-108/minitrello)** | Collaborative Kanban board with workspaces, role-based memberships, activity logs and live updates across clients. | React · Express 5 · Prisma · Socket.IO · Zod · JWT |
+| 📈 **[CryptoHunter](https://github.com/Abhiram-108/CRYPTOHUNTER)** | Tracks trending cryptocurrencies with live prices and market movement. [Live demo →](https://crypto-hunter.netlify.app/) | React · REST APIs |
+| 🧮 **[Math Solver](https://github.com/Abhiram-108/oops-prj)** | Object-oriented C++ engine for arithmetic, trigonometry, logarithms and calculus. | C++20 · OOP |
+
+<sub>More: [Compass Comfort](https://github.com/Abhiram-108/Compass-Comfort) (travel + maps) · [News Live](https://github.com/Abhiram-108/NEWS-LIVE) · [Tesla clone](https://github.com/Abhiram-108/tesla-clone) ([live](https://tesla-clone-ab.netlify.app/)) · [Library Management](https://github.com/Abhiram-108/C-LIBRARY-MANAGEMENT) (C++)</sub>
+
+### 🧠 Problem solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/tonystark50/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/tonystark50?theme=dark&font=Inter&ext=contest" />
+      <img src="https://leetcard.jacoblin.cool/tonystark50?theme=light&font=Inter&ext=contest" alt="LeetCode stats" />
+    </picture>
+  </a>
+</p>
